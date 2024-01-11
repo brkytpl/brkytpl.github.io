@@ -27,7 +27,7 @@ Here's a table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
-How about a yummy crepe?
+Nasıl görünüyor?
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
